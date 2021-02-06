@@ -1,0 +1,1 @@
+Using Emacs is a true great pleasure. Embeded style coding. Multi-lingua typing and correction.
